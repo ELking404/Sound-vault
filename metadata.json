@@ -1,0 +1,8 @@
+{
+  "name": "Remix SoundVault - Audio \u0026 Cover Downloader",
+  "description": "Download music and high-res covers from YouTube, YT Music, and Spotify with customizable audio quality (MP3, FLAC, MP4), batch processing capabilities and an intuitive, dark-mode user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
